@@ -1,2 +1,3 @@
 # BetterEngg
-Achieve of good engineering practices
+
+- [UV for Python packaging](notes/uv.md)
